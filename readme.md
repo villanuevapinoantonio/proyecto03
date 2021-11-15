@@ -17,4 +17,4 @@ En este proyecto se lleva a cabo un análisis y un procesamiento de los datos de
     **otros.js**: Este archivo contiene las consultas realizadas utilizando los métodos _aggregate_ y _distinct_
     
 
-## Base de datos construida con el Software de Base de datos No Relacionales **MONGO DB** para la asignatura Bases de Datos del 1º Curso de DAM.
+**Base de datos construida con el Software de Base de datos No Relacionales MONGO DB para la asignatura Bases de Datos del 1º Curso de DAM.**
